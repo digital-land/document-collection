@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 document,,,notice:COA00000780-1,5800486
 document,,,area-appraisal:COA00000085-1,5800487
 document,,,notice:COA00000085-1,5800488
